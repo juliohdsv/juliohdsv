@@ -1,6 +1,7 @@
-### Oi! Eu sou o Júlio Henrique
+<h2>I´m Júlio Henrique</h2>
 
-
-- 🔭 Hoje trabalho como analista de sistemas
-- 🌱 Esudando javaScript e node js
-
+<ul>
+  <li>Systems analyst</li>
+  <li>Engineering student</li>
+  <li>Objective: Learn more about node js, javaScript, React and React native</li>
+</ul>
