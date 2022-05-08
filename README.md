@@ -1,10 +1,12 @@
 ### Olá! Eu sou o Júlio Henrique 🖐️
-
+<br/>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-vieira-b55936127/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julio_henrique_/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliohdsv_icons=true&theme=radical)
+<br/>
+
+![juliohdsv GitHub stats](https://github-readme-stats.vercel.app/api?username=juliohdsv&show_icons=true&theme=radical)
 
 
 ### Algumas tecnologias/skills que utilizo:
