@@ -1,4 +1,4 @@
-### Olá! Eu sou o Júlio Henrique 🖐️
+### Júlio Henrique - Desenvolvedor Full Stack
 <br/>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-vieira-b55936127/)
