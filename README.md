@@ -1,4 +1,4 @@
-### Júlio Henrique - Desenvolvedor Full Stack
+### Júlio Henrique - Web Full Stack developer
 <br/>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-vieira-b55936127/)
@@ -12,7 +12,7 @@
 
 ![juliohdsv GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juliohdsv&theme=radical)
 
-### Algumas tecnologias/skills que utilizo:
+### Some technologies/skills:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -27,7 +27,7 @@
     <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </div>
     
-### IDE Favorito
+### IDE Favorite
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
