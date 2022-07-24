@@ -43,7 +43,7 @@
 ### Design:
 
 <div style="display: inline_block"><br/>
-    https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+    <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
 ### Others:
