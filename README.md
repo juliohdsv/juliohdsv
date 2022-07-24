@@ -40,6 +40,12 @@
     <img align="center" alt="mySql" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </div>
 
+### Design:
+
+<div style="display: inline_block"><br/>
+    https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+</div>
+
 ### Others:
 
 <div style="display: inline_block"><br/>
