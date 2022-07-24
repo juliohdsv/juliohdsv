@@ -46,6 +46,12 @@
     <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
+### Office:
+
+<div style="display: inline_block"><br/>
+	<img align="center" alt="figma" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"
+</div>
+	
 ### Terminal:
 
 <div style="display: inline_block"><br/>
