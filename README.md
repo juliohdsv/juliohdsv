@@ -1,7 +1,8 @@
 ### Júlio Henrique - Web Full Stack developer
 
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+<a href="https://www.linkedin.com/in/j%C3%BAliovieira/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/j%C3%BAliovieira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
 
-https://www.linkedin.com/in/j%C3%BAliovieira/
+
