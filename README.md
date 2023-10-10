@@ -9,7 +9,6 @@
 - 👨‍💻 More at [juliovieira.dev](https://portifolio-julio.netlify.app/)
 
 <br><br>
-
 ## Contact
 
 <a href="https://www.linkedin.com/in/j%C3%BAliovieira/" target="_blank">
