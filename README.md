@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **JavaScript, Tailwindcss, SQL, Node.JS, React.JS**
 
-- 👨‍💻 More at [juliovieira.dev](https://portifolio-julio.netlify.app/)
+- 👨‍💻 More at [juliovieira.dev](https://juliovieira-dev.netlify.app/)
 
 <br><br>
 ## Contact
