@@ -8,7 +8,8 @@
 
 - 👨‍💻 More at [juliovieira.dev](https://juliovieira-dev.netlify.app/)
 
-<br><br>
+<br>
+<br>
 ## Contact
 
   <a href="https://www.linkedin.com/in/j%C3%BAliovieira/" target="_blank">
