@@ -18,4 +18,3 @@
   <a href="https://juliovieira-dev.netlify.app/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/juliovieira.dev-05122A?style=flat&logo=codepen" alt="codepen"/>
   </a>
-
