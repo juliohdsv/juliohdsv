@@ -1,6 +1,6 @@
 <h1>Hi, I'm Júlio Vieira</h1>
 
-- 🔥 Dev web full stack and Software Enginner
+- 🔥 Dev web full stack and Software Engineer
 
 - 🔭 I’m currently working at [Ald Automotive](https://www.aldautomotive.com.br/)
 
