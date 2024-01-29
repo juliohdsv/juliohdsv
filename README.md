@@ -1,6 +1,6 @@
 <h1>Hi, I'm Júlio Vieira</h1>
 
-- 🔥 Software Engineer
+- 💻 Software Engineer
 
 - 🔭 I’m currently working at [Ald Automotive](https://www.aldautomotive.com.br/)
 
