@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [Ald Automotive](https://www.aldautomotive.com.br/)
 
-- 💬 Ask me about **JavaScript, Tailwindcss, SQL, NoSQL, Node.JS and React.JS**
+- 💬 Ask me about **JavaScript, Tailwindcss, SQL, NoSQL, Node.JS, React.JS and React Native**
 
 - 👨‍💻 More at [juliovieira.dev](https://juliovieira-dev.netlify.app/)
 
