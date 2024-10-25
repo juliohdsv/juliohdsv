@@ -2,7 +2,7 @@
 
 - 💻 Software Engineer
 
-- 🔭 I’m currently working at [Ald Automotive](https://www.aldautomotive.com.br/)
+- 🔭 I’m currently working at [Ayvens](https://www.aldautomotive.com.br/)
 
 - 💬 Ask me about **JavaScript, Tailwindcss, SQL, NoSQL, Node.JS, React.JS and React Native**
 
