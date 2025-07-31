@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [Ayvens](https://www.aldautomotive.com.br/)
 
-- 💬 Ask me about **Development, Business, Career and Technology**
+- 💬 Ask me about **Development, Business and Technology**
 
 - 👨‍💻 More at [Júlio Henrique](https://juliohenrique-iar.netlify.app/)
 
