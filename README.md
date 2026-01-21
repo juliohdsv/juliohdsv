@@ -2,8 +2,6 @@
 
 - 💻 Software Engineer
 
-- 🔭 Currently working at [Ayvens](https://www.aldautomotive.com.br/)
-
 - 💬 Ask me about **Development, Business and Technology**
 
 - 👨‍💻 More about me [Júlio Henrique](https://jhtecnologia.com/)
