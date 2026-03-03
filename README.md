@@ -4,7 +4,6 @@
 
 - 💬 Ask me about **Development, Business and Technology**
 
-- 👨‍💻 More about me [Júlio Henrique](https://jhtecnologia.com/)
 
 <br>
 <br>
